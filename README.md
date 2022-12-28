@@ -7,4 +7,4 @@
 
 Применение vit_b_16
 
-
+![4](https://user-images.githubusercontent.com/61515881/209781502-520c7537-48ae-48b5-993c-f4a31f11e2d0.png)
